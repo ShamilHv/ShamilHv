@@ -35,7 +35,7 @@ I'm a passionate back-end developer with a strong foundation in Java. Currently 
 
 
 
-- 🌱 **Currently Learning**: Advanced Java EE concepts, JPA, and Spring Framework.
+- 🌱 **Currently Learning**: Advanced Java EE concepts, JPA, Spring Framework. 
 - 🎯 **Goal**: Land a role as a skilled Java back-end developer.
 
 ---
