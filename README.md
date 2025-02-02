@@ -1,7 +1,7 @@
 # Hi there, I'm Shamil! 👋
 
 ## 🌟 About Me
-I'm a passionate back-end developer with a strong foundation in Java. Currently diving deep into **Spring**, enhancing my skills in frameworks, and mastering database systems like MySQL and PostgreSQL. 🚀
+I'm a passionate back-end developer with a strong foundation in **Java**. Currently diving deep into **Spring Cloud and Microservices**, enhancing my skills in frameworks, and mastering new technologies. 🚀
   
 
 - 📫 How to reach me
